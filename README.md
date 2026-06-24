@@ -18,7 +18,7 @@ AI-powered clinical image validation system — cGAN-based synthesis (PyTorch) w
 Financial risk-monitoring tool integrating the RBI Account Aggregator framework, with a custom "Zombie Risk Score" algorithm to flag dormant/at-risk accounts. Flask + SQLite backend. [Live demo:](#) (https://sub-zero-8cft.onrender.com)
 
 **[UPI Spend Intelligence Dashboard](https://github.com/Nehakulkarni31/upi-spend-intelligence-dashboard)**
-Streamlit dashboard analyzing UPI transaction patterns with K-Means customer segmentation. [Live demo →](#) (https://upi-spend-intelligence-dashboard-by-neha.streamlit.app/)
+Streamlit dashboard analyzing UPI transaction patterns with K-Means customer segmentation. [Live demo →](#) : (https://upi-spend-intelligence-dashboard-by-neha.streamlit.app/)
 
 **[bfhl-api](https://github.com/Nehakulkarni31/bfhl-api)**
 Spring Boot REST API (Java 17, Maven) built and deployed live during a campus recruitment drive — containerized with Docker, deployed on Render.
