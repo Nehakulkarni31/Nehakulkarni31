@@ -5,7 +5,7 @@ Computer Engineering student building ML and full-stack systems across healthcar
 - 🔬 Currently: Executive Certification in FinTech & AI (BITS School of Management × Masai) — capstone work in fraud detection & credit risk modeling
 - 🛠️ Recent ML/full-stack work: clinical image synthesis, financial risk scoring, and spend analytics
 - 🌱 Contributing to **AegisAI** (AI Governance, Risk & Compliance platform) via GSSoC 2026
-- 📫 Reach me: https://www.linkedin.com/in/neha-girish-kulkarni · nehagirish31@gmai.com
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/neha-girish-kulkarni) · nehagirish31@gmail.com
 
 ---
 
@@ -15,10 +15,10 @@ Computer Engineering student building ML and full-stack systems across healthcar
 AI-powered clinical image validation system — cGAN-based synthesis (PyTorch) with a Flask API backend and a React/TypeScript dashboard for clinicians to review outputs. Improved SSIM from 0.23 to 0.92 during training.
 
 **[Sub-Zero](https://github.com/Nehakulkarni31/sub-zero)**
-Financial risk-monitoring tool integrating the RBI Account Aggregator framework, with a custom "Zombie Risk Score" algorithm to flag dormant/at-risk accounts. Flask + SQLite backend. [Live demo:](#) (https://sub-zero-8cft.onrender.com)
+Financial risk-monitoring tool integrating the RBI Account Aggregator framework, with a custom "Zombie Risk Score" algorithm to flag dormant/at-risk accounts. Flask + SQLite backend. [Live demo](https://sub-zero-8cft.onrender.com)
 
 **[UPI Spend Intelligence Dashboard](https://github.com/Nehakulkarni31/upi-spend-intelligence-dashboard)**
-Streamlit dashboard analyzing UPI transaction patterns with K-Means customer segmentation. [Live demo →](#) : (https://upi-spend-intelligence-dashboard-by-neha.streamlit.app/)
+Streamlit dashboard analyzing UPI transaction patterns with K-Means customer segmentation. [Live demo](https://upi-spend-intelligence-dashboard-by-neha.streamlit.app/)
 
 **[bfhl-api](https://github.com/Nehakulkarni31/bfhl-api)**
 Spring Boot REST API (Java 17, Maven) built and deployed live during a campus recruitment drive — containerized with Docker, deployed on Render.
